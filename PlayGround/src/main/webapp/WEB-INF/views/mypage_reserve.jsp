@@ -58,7 +58,7 @@
 							</ul></li>
 					</ul>
 				</nav>
-				<div class="top_header">
+				<div class="quick_menu">
 					<ul>
 						<c:choose>
 							<c:when test="${loginId eq null}">
